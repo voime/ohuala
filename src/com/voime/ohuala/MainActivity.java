@@ -19,7 +19,7 @@ import android.preference.PreferenceManager;
 
 
 public class MainActivity extends MapActivity {
-	public static final String PREFS_NAME = "Ohuala";
+	public static final String PREFS_NAME = "ohuala";
 	public MapController mapController;
 	MapView mapView = null;
 	private LocationManager locationManager;

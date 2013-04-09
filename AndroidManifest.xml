@@ -30,6 +30,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+        	android:name=".Popup"
+        	android:label="Popup">
+		</activity>
     </application>
 
 </manifest>
